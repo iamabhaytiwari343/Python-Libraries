@@ -1,2 +1,2 @@
 # numpy
-python's library most important in data analytics and data science
+python's libraries most important in data analytics and data science
