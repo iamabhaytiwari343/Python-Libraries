@@ -1,0 +1,33 @@
+
+## NUMPY FUNCTIONS
+
+- `numpy.array`: Create an array from a list or other iterable.
+- `numpy.zeros`: Create an array filled with zeros.
+- `numpy.ones`: Create an array filled with ones.
+- `numpy.empty`: Create an empty (uninitialized) array.
+- `numpy.arange`: Create an array with evenly spaced values within a specified range.
+- `numpy.linspace`: Create an array with evenly spaced values over a specified interval.
+- `numpy.eye` or `numpy.identity`: Create a square identity matrix.
+- `numpy.shape`: Get the shape (dimensions) of an array.
+- `numpy.size`: Get the total number of elements in an array.
+- `numpy.reshape`: Reshape an array into a different shape.
+- `numpy.mean`: Calculate the mean (average) of array elements.
+- `numpy.sum`: Calculate the sum of array elements.
+- `numpy.min` and `numpy.max`: Find the minimum and maximum values in an array.
+- `numpy.argmin` and `numpy.argmax`: Find the indices of the minimum and maximum values.
+- `numpy.std`: Calculate the standard deviation of array elements.
+- `numpy.var`: Calculate the variance of array elements.
+- `numpy.sort`: Sort the elements of an array.
+- `numpy.concatenate`: Concatenate (join) arrays along a specified axis.
+- `numpy.transpose`: Transpose the array, swapping rows and columns.
+- `numpy.dot` or `numpy.matmul`: Perform matrix multiplication.
+- `numpy.linalg.inv`: Compute the inverse of a matrix.
+- `numpy.random.rand`: Generate random numbers from a uniform distribution.
+- `numpy.random.randn`: Generate random numbers from a standard normal distribution.
+- `numpy.random.randint`: Generate random integers within a specified range.
+- `numpy.histogram`: Compute a histogram of an array's values.
+- `numpy.unique`: Find unique elements in an array.
+- `numpy.vstack` and `numpy.hstack`: Stack arrays vertically or horizontally.
+- `numpy.delete`: Delete elements from an array.
+- `numpy.isin`: Check if elements in one array are present in another.
+- `numpy.where`: Return the indices of elements that satisfy a condition.
